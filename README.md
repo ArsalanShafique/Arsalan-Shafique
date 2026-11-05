@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="./assets/github-banner.png" width="100%" alt="Arsalan Shafique - QA Automation Engineer"/>
 
 # ARSALAN SHAFIQUE
 
